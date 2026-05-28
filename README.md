@@ -1,2 +1,2 @@
 # escrowkit
-Build verifiable on-chain forms and surveys powered by the Stellar network.
+SDK and CLI for deploying milestone-based escrow contracts on Stellar Soroban.
